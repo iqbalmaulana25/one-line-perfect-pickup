@@ -4,7 +4,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const line =
-  "I'm not allowed to keep your personal data, but I'd happily keep your number.";
+  "Clause 14 of my terms of service strictly forbids forming attachments. Anyway — what are you doing Friday?";
 
 // Gate guard: the scorer only accepts a single line of 1..200 characters
 // (counted with the trailing newline this program writes).
